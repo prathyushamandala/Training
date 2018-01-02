@@ -21,9 +21,9 @@ public class EqualsProgram {
 		
 		
 		if(account1.equals(account2)) {
-			System.out.println("Bank accounts are same");
+			System.out.println("Bank accounts are same ");
 		}else {
-			System.out.println("Bank accounts are different");
+			System.out.println("Bank accounts are different ");
 		}
 	}
 
