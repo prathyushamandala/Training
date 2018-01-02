@@ -2,14 +2,13 @@ package com.visam.javatraining.equals;
 
 public class BankAccount {
 	
-//	int accountNumber;
-//	float accountBalance;
+	int accountNumber;
+	float accountBalance;
 	boolean accountStatus;
 	String name;
 	
 	
-	
-	public boolean equals(Object obj) {
+		public boolean equals(Object obj) {
 		
 		BankAccount bankaccount = (BankAccount) obj;
 		if (name == null) {

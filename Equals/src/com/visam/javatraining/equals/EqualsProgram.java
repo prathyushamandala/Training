@@ -12,6 +12,7 @@ public class EqualsProgram {
 		account2.name = "prathyusha";
 		
 		
+		
 		account1.accountStatus = true;
 		account2.accountStatus = true;
 		
