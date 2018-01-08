@@ -1,4 +1,4 @@
-package day2;
+package com.visam.java.methodoverloadride;
 
 public class Employee {
 	String FullName = "Joe Manda";

@@ -1,4 +1,4 @@
-package day3;
+package com.visam.java.statickeyword;
 
 
 public class MyProgramStatic {
